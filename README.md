@@ -1,4 +1,14 @@
-# React + Vite
+This is a 3D portfolio that I have made with the help of the YouTube Channel (JSMastery)
+
+The technologies used here are:-
+-HTML
+-CSS
+-JS
+-ReactJS Framework
+-Vite
+-NodeJS
+-Three JS
+-EmailJS
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
